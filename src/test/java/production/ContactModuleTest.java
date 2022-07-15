@@ -14,6 +14,6 @@ public void createOrganizationTest() {
 @Test
 public void createProductTest()
 {
-	System.out.println("createprodct");
+	System.out.println("createprodctTest executed");
 	System.out.println("file update completed by me");
 }}
