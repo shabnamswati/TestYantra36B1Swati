@@ -12,5 +12,7 @@ public void createOrganizationTest() {
 	System.out.println("createOrganizationTest executed");
 }
 @Test
-public void createProductTest() {
+public void createProductTest()
+{
+	System.out.println("createprodct");
 }}
